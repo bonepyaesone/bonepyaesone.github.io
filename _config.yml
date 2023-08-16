@@ -1,5 +1,5 @@
 # Site settings
-title: BPS Translation Agency
+title: InterpreX
 email: bpstranslation@gmail.com
 description: "Your reliable fixer"
 
@@ -14,7 +14,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/pub/bpstranslation
   - title: github
-    url: http://github.com/y7kim
+    url: https://github.com/bonepyaesone
   - title: envelope
     url: mailto:bpstranslation@gmail.com
 
